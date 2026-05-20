@@ -1,6 +1,6 @@
 # Programming-Computation-II
 
-Problem sets and recitation exercises from Programming & Computation II at Penn State. Builds on Programming & Computation II with a focus on object-oriented programming, data structures, and algorithm analysis, all in Python.
+Problem sets and recitation exercises from Programming & Computation II at Penn State. Builds on Programming & Computation I with a focus on object-oriented programming, data structures, and algorithm analysis, all in Python.
 
 ---
 
